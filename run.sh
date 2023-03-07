@@ -1,1 +1,1 @@
-gridlabd input/main.glm -o output/gridlabd.glm
+gridlabd input/main.glm -o output/gridlabd.json
